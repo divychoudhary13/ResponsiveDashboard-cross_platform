@@ -1,5 +1,5 @@
-Repository URL: 
+Repository URL: https://github.com/divychoudhary13/ResponsiveDashboard-cross_platform.git
 Student Name: Divy Choudhary
 Student ID: N01728746
 Lab: CPAN 213 - Lab 4
-Date: October 14, 2025
+Date: October 16, 2025
